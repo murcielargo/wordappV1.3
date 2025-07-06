@@ -1,0 +1,132 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PYTHONPATH
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Flask
+instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.backup
+*_backup.*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Specific to this project
+wordapp_backup*.db
+enhanced_words_data.json
+new_words_data.json
+final_words_data.json
+test_*.html
+test_*.py
+check_*.py
+fix_*.py
+analyze_*.py
+compare_*.py
+create_*.py
+debug_*.py
+final_*.py
+import_*.py
+migrate_*.py
+process_*.py
+reimport_*.py
+remove_*.py
+reorganize_*.py
+replace_*.py
+setup_*.py
+shuffle_*.py
+simple_*.py
+add_*.py
+auto_*.py
+batch_*.py
+enhanced_*.py
+multi_*.py
+new_*.py
+word_parser.py
+enhanced_word_parser.py
+new_word_parser.py
+final_word_parser.py
+multi_batch_parser.py
+process_vocab_with_ai.py
+start_server.bat
+waitress.conf.py
+task.md
+使用说明-AI词汇处理.md
+多册词汇使用说明.md
+错误单词练习使用指南.md
+.trae/
